@@ -46,4 +46,4 @@
 ### 📫 Connect With Me
 - 📧 sonudhanik2812@gmail.com
 
-- 🌐 [LinkedIn] https://www.linkedin.com/in/sudhanshu-dhanik
+- 🌐 [LinkedIn] (https://www.linkedin.com/in/sudhanshu-dhanik-3308b9268/)

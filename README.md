@@ -29,17 +29,7 @@ Full-featured banking application with account management, transaction handling,
 
 ## 💡 Skills & Technologies
 
-### Languages
-- Python, JavaScript, TypeScript, Java, C++
-
-### Technologies & Frameworks
-- React, Node.js, Express, Django, Flask
-- MongoDB, PostgreSQL, MySQL
-- REST APIs, GraphQL
-
-### Tools & Platforms
-- Git & GitHub, Docker, AWS
-- VS Code, Linux, CI/CD
+*For a complete list of skills and experience, please refer to my [Resume (PDF)](./Sudhanshu_Dhanik_Resume.pdf)*
 
 ---
 
